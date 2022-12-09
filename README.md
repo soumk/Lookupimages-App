@@ -1,3 +1,11 @@
+***********************************************************************
+
+This is a react project which works with remote API to search HD images.
+
+You can access the website here : http://lookupimage.soumyak.co/
+
+***********************************************************************
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
